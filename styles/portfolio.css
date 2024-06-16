@@ -39,14 +39,11 @@ p {
    font-size: 24px;
 }
 
-button{
-width: Fixed (200px)px;
-height: Hug (63px)px;
-top: 566px;
-left: 618px;
-padding: 18px 30px 18px 30px;
-gap: 10px;
-border-radius: 4px 0px 0px 0px;
-opacity: 0px;
-background-color: blue;
+.btn-branding {
+background-color:#6C63FF;
+border-radius: 4px;
+color:white;
+font-size: 18px;
+line-height: 27px;
+padding: 12px 20px;
 }
