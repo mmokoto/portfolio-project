@@ -1,6 +1,6 @@
  
   
-h1 {
+h1, h2, h3, h4, h5, h6 {
     color: black;
     font-family: "Poppins", sans-serif;
     font-weight: 600;
@@ -18,4 +18,9 @@ p {
   background: var(--secondary-color);
   text-align: center;
   padding: 160px 20px;
+}
+
+.hero p {
+    font-family: "Poppins", sans-serif;
+    font-size: 36px;
 }
