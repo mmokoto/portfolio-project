@@ -48,10 +48,10 @@ p {
 }
 
 .btn-branding {
-background-color: var(--branding-color);
-border-radius: 4px;
-color:white;
-font-size: 18px;
-line-height: 27px;
-padding: 12px 20px;
+  background: var(--branding-color);
+  border-radius: 4px;
+  color: white;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 15px 30px;
 }
