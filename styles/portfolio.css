@@ -29,6 +29,7 @@ p {
     font-size: 36px;
     font-weight: bold;
     margin: 0;
+    color:#272142;
 }
 
 .hero h2 {
@@ -36,4 +37,15 @@ p {
    font-weight:normal; 
    line-height: 2;
    font-size: 24px;
+}
+
+button{
+width: Fixed (200px)px;
+height: Hug (63px)px;
+top: 566px;
+left: 618px;
+padding: 18px 30px 18px 30px;
+gap: 10px;
+border-radius: 4px 0px 0px 0px;
+opacity: 0px;
 }
