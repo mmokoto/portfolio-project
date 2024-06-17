@@ -48,7 +48,7 @@ p {
 }
 
 .btn-branding {
-    background: var(--branding-color);
+    background: blue;
     border-radius: 4px;
     color: white;
     font-size: 18px;
