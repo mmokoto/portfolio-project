@@ -19,11 +19,16 @@ h1 {
     font-size: 96px;
 }
 
+h2 {
+    font-size: 64px;
+}
+
 p {
     
   font-family: "Playfair Display", serif;
   font-weight: weight;
   font-style: normal;
+  font-size: 16px;
 }
 
 .hero {
@@ -48,7 +53,7 @@ p {
 }
 
 .btn-branding {
-    background: blue;
+    background: var(--branding-color);
     border-radius: 4px;
     color: white;
     font-size: 18px;
@@ -63,4 +68,13 @@ p {
     text-decoration: none;
     vertical-align: middle;
     cursor: pointer;
+}
+
+.btn-branding-outline {
+    color: var(--branding-color);
+    border: 1px solid var(--branding-color);
+    border-radius: 4px;
+    font-size: 18px;
+    line-height: 27px;
+    padding: 15px 30px;
 }
